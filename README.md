@@ -11,3 +11,5 @@ Minha Habilidades :man_technologist:
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 Meu status:
+
+![Silas Ribeiro](https://github-readme-stats.vercel.app/api?username=pretodev&show_icons=true&theme=radical)
