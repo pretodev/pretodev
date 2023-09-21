@@ -4,7 +4,7 @@ Meu nome é Silas Ribeiro, sou **Engenheiro de Software**. Atuo na área de dese
 
 Para me encontrar:
 
-[Linkedin](https://www.linkedin.com/in/silas-ribeiro/)
+![[Linkedin](https://www.linkedin.com/in/silas-ribeiro/)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 Minha Habilidades:
 
