@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**pretodev/pretodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá Pessoal!
+Meu nome é Silas Ribeiro, sou Engenheiro de Software. Atuo na área de desenovlimento desde 2015, atualmente trabalho como Instrutor Full-Stack Mobile @cubosacademy e também desenvolvo o List, uma aplicação que ajuda farmacias e supermercados no pesquisa de preço da concorrência em tempo real.
 
-Here are some ideas to get you started:
+Para me encontrar:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Linkedin
+
+Minha Habilidades:
+
+Go Dart Javascript
+
+Meu status:
+
